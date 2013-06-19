@@ -1,0 +1,18 @@
+/* 
+    Document   : afapp
+    Created on : Jun 11, 2013, 5:49:55 PM
+    Author     : lid
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+input.threeCharWidth{
+    width: 2em;
+}
+input.fourCharWidth{
+    width: 2.5em;
+}
+input.longWidth{
+    width: 50em;
+}
+
